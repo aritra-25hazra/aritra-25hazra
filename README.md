@@ -21,7 +21,7 @@ tests for every claim, and numbers that come from code someone can run.
         <li><b>Speculative turns</b>: looks up the answer while the caller is still speaking</li>
         <li><b>Pramaan ledger</b>: every booking sealed in a signed, hash-chained receipt</li>
       </ul>
-      <p><i>Made with Prabhav Upadhyay and Anuj Uniyal.</i></p>
+      <p><i>Made with <a href="https://github.com/PRABHAV535">Prabhav Upadhyay</a> and Anuj Uniyal.</i></p>
       <a href="https://haanji-engine.onrender.com/talk"><b>Talk to it</b></a> ·
       <a href="https://haanji-kappa.vercel.app"><b>Console</b></a> ·
       <a href="https://github.com/aritra-25hazra/haanji"><b>Code</b></a> ·
